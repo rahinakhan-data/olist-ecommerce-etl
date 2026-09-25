@@ -1,0 +1,18 @@
+2026-09-25 18:09:27,088 - INFO - Extraction started from 'olist_customers_dataset.csv'
+2026-09-25 18:09:27,222 - INFO - Extraction succeed from 'olist_customers_dataset.csv' | Rows: 99441 | Time Taken: 0.13s
+2026-09-25 18:09:27,230 - INFO - Extraction started from 'olist_geolocation_dataset.csv'
+2026-09-25 18:09:27,867 - INFO - Extraction succeed from 'olist_geolocation_dataset.csv' | Rows: 1000163 | Time Taken: 0.64s
+2026-09-25 18:09:27,867 - INFO - Extraction started from 'olist_order_items_dataset.csv'
+2026-09-25 18:09:28,132 - INFO - Extraction succeed from 'olist_order_items_dataset.csv' | Rows: 112650 | Time Taken: 0.27s
+2026-09-25 18:09:28,132 - INFO - Extraction started from 'olist_order_payments_dataset.csv'
+2026-09-25 18:09:28,231 - INFO - Extraction succeed from 'olist_order_payments_dataset.csv' | Rows: 103886 | Time Taken: 0.08s
+2026-09-25 18:09:28,231 - INFO - Extraction started from 'olist_order_reviews_dataset.csv'
+2026-09-25 18:09:28,514 - INFO - Extraction succeed from 'olist_order_reviews_dataset.csv' | Rows: 99224 | Time Taken: 0.28s
+2026-09-25 18:09:28,514 - INFO - Extraction started from 'olist_orders_dataset.csv'
+2026-09-25 18:09:28,798 - INFO - Extraction succeed from 'olist_orders_dataset.csv' | Rows: 99441 | Time Taken: 0.28s
+2026-09-25 18:09:28,798 - INFO - Extraction started from 'olist_products_dataset.csv'
+2026-09-25 18:09:28,832 - INFO - Extraction succeed from 'olist_products_dataset.csv' | Rows: 32951 | Time Taken: 0.03s
+2026-09-25 18:09:28,832 - INFO - Extraction started from 'olist_sellers_dataset.csv'
+2026-09-25 18:09:28,832 - INFO - Extraction succeed from 'olist_sellers_dataset.csv' | Rows: 3095 | Time Taken: 0.00s
+2026-09-25 18:09:28,847 - INFO - Extraction started from 'product_category_name_translation.csv'
+2026-09-25 18:09:28,848 - INFO - Extraction succeed from 'product_category_name_translation.csv' | Rows: 71 | Time Taken: 0.00s
