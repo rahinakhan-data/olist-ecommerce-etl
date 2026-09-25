@@ -1,5 +1,9 @@
 data/
 venv/
 __pycache__/
-*.log
+logs/*.log
 .ipynb_checkpoints/
+# Microsoft Office Temporary Files
+~$*.docx
+~$*.xlsx
+*.tmp
