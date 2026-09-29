@@ -121,5 +121,3 @@ def  data_profiling(extracted_dfs, report_path):
     with open(report_path, 'w', encoding="utf-8") as file:
         file.write(report_content)
         print(f"Report successfully saved at {report_path}")
-
-
