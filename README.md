@@ -1,4 +1,4 @@
-# E-Commerce Analytics ETL Pipeline (Capstone Project)
+# O-list E-Commerce Analytics ETL Pipeline (Capstone Project)
 An end-to-end data engineering pipeline designed to extract scattered, raw e-commerce data from the Olist Brazilian E-Commerce Dataset, clean and transform it into a structured star schema, and load it into a centralized PostgreSQL data warehouse for analytical reporting.
 
 ## Project Overview
