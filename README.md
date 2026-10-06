@@ -105,4 +105,4 @@ To ingest data from staging, run cleaning methods, validate rules, and build you
 ```bash
 python run_transform.py
 ```
-*Outputs verification reports inside `reports/data_quality_report.csv` and details pipeline execution tracking in `logs/transform_pipeline_logs.log`.*
+*Outputs verification reports inside `reports/data_quality_report.csv` and details pipeline execution tracking in `logs/transform_pipeline_run_proof.log`.*
