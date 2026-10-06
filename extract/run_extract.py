@@ -11,7 +11,7 @@ BASE_DIR = Path().resolve()
 
 if str(BASE_DIR) not in sys.path:# Checks if python knows where the main folder is
     sys.path.append(str(BASE_DIR)) # Adds the main folder to python's path list
-
+ 
 REPORT_PATH = BASE_DIR / 'reports'
 
 from extract import extract_records, data_profiling
