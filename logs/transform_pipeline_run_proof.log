@@ -1,0 +1,1656 @@
+2026-09-30 11:52:10,634 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 11:52:14,122 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 11:52:14,490 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 11:52:14,773 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 11:52:15,129 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 11:52:15,453 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 11:52:15,594 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 11:52:15,610 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 11:52:15,617 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 11:56:50,994 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 11:56:53,416 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 11:56:53,677 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 11:56:53,882 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 11:56:54,119 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 11:56:54,347 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 11:56:54,437 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 11:56:54,452 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 11:56:54,463 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 11:57:37,139 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 11:57:39,526 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 11:57:39,793 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 11:57:40,008 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 11:57:40,240 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 11:57:40,476 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 11:57:40,594 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 11:57:40,602 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 11:57:40,610 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 11:59:51,901 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 11:59:54,357 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 11:59:54,614 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 11:59:54,832 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 11:59:55,064 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 11:59:55,282 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 11:59:55,373 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 11:59:55,388 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 11:59:55,398 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 12:00:24,983 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 12:00:27,598 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 12:00:27,844 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 12:00:28,058 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 12:00:28,298 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 12:00:28,523 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 12:00:28,613 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 12:00:28,633 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 12:00:28,639 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 12:09:32,535 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 12:09:34,951 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 12:09:35,216 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 12:09:35,452 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 12:09:35,686 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 12:09:35,906 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 12:09:36,009 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 12:09:36,027 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 12:09:36,031 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:16:45,473 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:16:49,029 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:16:49,421 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:16:49,748 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:16:50,122 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:16:50,448 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:16:50,584 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:16:50,603 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:16:50,615 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:19:46,817 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:19:50,227 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:19:50,598 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:19:50,891 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:19:51,210 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:19:51,552 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:19:51,689 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:19:51,705 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:19:51,710 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:21:54,067 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:21:57,875 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:21:58,250 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:21:58,554 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:21:58,910 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:21:59,221 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:21:59,350 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:21:59,371 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:21:59,379 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:22:55,192 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:22:58,643 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:22:59,006 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:22:59,298 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:22:59,637 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:22:59,978 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:23:00,133 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:23:00,144 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:23:00,149 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:23:16,084 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:23:19,454 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:23:19,841 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:23:20,131 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:23:20,471 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:23:20,792 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:23:20,938 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:23:20,949 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:23:20,952 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:23:49,601 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:23:52,875 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:23:53,252 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:23:53,546 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:23:53,894 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:23:54,213 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:23:54,365 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:23:54,365 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:23:54,387 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:26:29,128 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:26:32,475 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:26:32,840 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:26:33,142 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:26:33,498 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:26:33,828 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:26:33,972 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:26:33,972 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:26:33,990 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:28:29,786 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:28:33,043 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:28:33,399 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:28:33,727 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:28:34,051 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:28:34,369 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:28:34,511 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:28:34,524 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:28:34,529 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:30:42,727 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:30:46,041 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:30:46,491 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:30:46,850 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:30:47,217 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:30:47,550 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:30:47,704 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:30:47,704 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:30:47,719 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:37:03,415 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:37:06,869 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:37:07,275 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:37:07,607 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:37:07,966 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:37:08,287 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:37:08,440 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:37:08,451 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:37:08,456 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 14:38:08,888 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 14:38:12,165 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 14:38:12,550 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 14:38:12,851 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 14:38:13,176 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 14:38:13,512 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 14:38:13,646 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 14:38:13,666 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 14:38:13,675 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:31:32,938 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:31:36,312 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:31:36,673 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:31:36,958 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:31:37,300 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:31:37,603 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:31:37,746 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:31:37,764 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:31:37,777 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:31:55,456 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:31:59,015 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:31:59,398 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:31:59,716 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:32:00,310 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:32:00,699 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:32:00,834 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:32:00,851 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:32:00,861 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:32:55,577 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:32:59,275 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:33:04,046 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:33:07,493 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:33:07,867 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:33:08,184 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:33:08,575 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:33:08,916 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:33:09,061 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:33:09,083 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:33:09,091 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:34:00,264 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:34:03,774 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:34:04,331 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:34:04,640 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:34:04,952 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:34:05,287 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:34:05,457 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:34:05,466 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:34:05,473 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:36:54,081 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:36:57,781 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:36:58,200 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:36:58,504 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:36:58,855 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:36:59,223 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:36:59,366 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:36:59,380 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:36:59,386 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:37:24,343 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:37:27,640 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:37:28,019 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:37:28,296 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:37:28,638 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:37:28,971 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:37:29,116 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:37:29,127 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:37:29,134 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:38:10,235 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:38:14,097 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:38:14,678 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:38:15,056 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:38:15,411 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:38:15,786 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:38:15,999 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:38:16,011 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:38:16,012 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:38:52,502 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:38:56,030 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:38:56,388 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:38:56,715 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:38:57,106 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:38:57,440 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:38:57,600 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:38:57,609 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:38:57,618 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 17:39:55,182 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 17:39:58,608 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 17:39:58,967 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 17:39:59,292 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 17:39:59,686 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 17:40:00,021 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 17:40:00,176 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 17:40:00,186 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 17:40:00,193 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:39:12,040 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:39:15,381 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:39:15,793 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:39:16,120 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:39:16,456 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:39:16,887 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:39:17,057 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:39:17,070 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:39:17,078 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:44:28,844 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:44:32,682 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:44:33,057 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:44:33,376 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:44:33,715 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:44:34,059 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:44:34,199 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:44:34,227 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:44:34,237 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:46:00,103 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:46:03,531 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:46:04,153 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:46:04,463 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:46:04,797 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:46:05,132 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:46:05,283 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:46:05,302 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:46:05,303 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:46:36,137 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:46:39,901 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:46:40,249 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:46:40,578 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:46:40,922 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:46:41,272 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:46:41,477 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:46:41,491 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:46:41,494 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:51:58,122 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:52:01,596 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:52:01,947 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:52:02,232 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:52:02,573 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:52:02,892 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:52:03,024 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:52:03,048 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:52:03,054 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:55:11,539 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:55:14,837 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:55:15,224 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:55:15,547 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:55:15,872 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:55:16,205 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:55:16,355 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:55:16,370 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:55:16,377 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:55:50,637 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:55:54,089 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:55:54,476 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:55:54,788 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:55:55,112 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:55:55,430 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:55:55,591 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:55:55,596 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:55:55,608 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:56:37,065 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:56:40,572 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:56:40,960 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:56:41,264 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:56:41,630 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:56:41,954 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:56:42,097 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:56:42,113 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:56:42,122 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 18:57:47,624 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-09-30 18:57:51,130 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-09-30 18:57:51,539 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-09-30 18:57:51,825 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-09-30 18:57:52,166 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-09-30 18:57:52,539 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-09-30 18:57:52,674 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-09-30 18:57:52,699 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-09-30 18:57:52,706 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-09-30 19:18:16,391 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:20,475 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:24,545 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:28,598 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:32,668 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:36,732 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:40,805 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:44,849 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-09-30 19:18:48,926 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:12:53,525 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:12:57,643 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:13:01,726 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:13:05,810 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:13:09,870 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:13:13,986 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:13:18,052 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:13:22,136 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:13:26,202 - INFO - Error during records fetching: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-10-01 12:15:14,598 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:15:17,930 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:15:18,348 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:15:18,689 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:15:19,030 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:15:19,428 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:15:19,574 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:15:19,621 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:15:19,629 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:16:25,711 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:16:29,189 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:16:29,573 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:16:29,916 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:16:30,235 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:16:30,596 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:16:30,733 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:16:30,738 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:16:30,749 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:18:16,678 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:18:20,108 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:18:20,451 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:18:20,752 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:18:21,097 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:18:21,427 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:18:21,587 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:18:21,592 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:18:21,602 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:18:51,813 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:18:55,103 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:18:55,456 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:18:55,757 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:18:56,146 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:18:56,476 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:18:56,650 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:18:56,650 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:18:56,666 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:19:31,552 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:19:34,742 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:19:35,139 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:19:35,455 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:19:35,803 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:19:36,140 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:19:36,297 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:19:36,309 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:19:36,313 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:24:24,645 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:24:27,909 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:24:28,406 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:24:28,697 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:24:29,041 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:24:29,387 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:24:29,529 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:24:29,537 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:24:29,548 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:25:33,639 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:25:36,947 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:25:37,316 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:25:37,625 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:25:37,957 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:25:38,398 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:25:38,535 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:25:38,555 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:25:38,559 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:54:28,876 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:54:32,462 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:54:32,874 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:54:33,179 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:54:33,565 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:54:33,917 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:54:34,059 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:54:34,064 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:54:34,082 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:55:53,749 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:55:57,050 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:55:57,407 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:55:57,717 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:55:58,034 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:55:58,362 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:55:58,537 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:55:58,545 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:55:58,556 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:57:14,220 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:57:17,473 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:57:17,858 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:57:18,160 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:57:18,502 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:57:18,833 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:57:18,959 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:57:18,984 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:57:18,987 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:58:53,239 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:58:56,624 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:58:57,005 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 12:58:57,300 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 12:58:57,627 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 12:58:57,970 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 12:58:58,112 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 12:58:58,135 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 12:58:58,141 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 12:59:56,287 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 12:59:59,482 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 12:59:59,855 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 13:00:00,154 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 13:00:00,485 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 13:00:00,802 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 13:00:00,941 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 13:00:00,958 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 13:00:00,963 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 13:02:17,650 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 13:02:20,902 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 13:02:21,241 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 13:02:21,603 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 13:02:22,015 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 13:02:22,328 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 13:02:22,484 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 13:02:22,503 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 13:02:22,509 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 17:22:06,074 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 17:22:10,075 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 17:22:10,510 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 17:22:10,852 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 17:22:11,213 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 17:22:11,588 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 17:22:11,738 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 17:22:11,756 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 17:22:11,761 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 17:22:33,322 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 17:22:37,618 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 17:22:38,197 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 17:22:38,552 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 17:22:38,955 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 17:22:39,418 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 17:22:39,603 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 17:22:39,618 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 17:22:39,624 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 17:37:50,571 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 17:37:52,984 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 17:37:53,238 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 17:37:53,440 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 17:37:53,676 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 17:37:53,899 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 17:37:54,011 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 17:37:54,018 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 17:37:54,022 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 17:38:32,338 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 17:38:34,780 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 17:38:35,042 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 17:38:35,246 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 17:38:35,474 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 17:38:35,750 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 17:38:35,911 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 17:38:35,922 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 17:38:35,933 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 17:59:47,062 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 17:59:49,420 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 17:59:49,667 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 17:59:49,866 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 17:59:50,094 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 17:59:50,309 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 17:59:50,408 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 17:59:50,408 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 17:59:50,418 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:07:47,827 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:07:50,296 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:07:50,549 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:07:50,747 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:07:51,048 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:07:51,280 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:07:51,369 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:07:51,389 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:07:51,392 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:08:28,726 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:08:31,290 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:08:31,571 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:08:31,772 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:08:32,008 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:08:32,222 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:08:32,312 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:08:32,330 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:08:32,334 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:10:39,130 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:10:41,622 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:10:41,872 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:10:42,083 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:10:42,306 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:10:42,530 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:10:42,621 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:10:42,637 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:10:42,643 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:11:53,446 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:11:55,854 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:11:56,098 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:11:56,299 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:11:56,529 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:11:56,764 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:11:56,853 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:11:56,853 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:11:56,871 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:19:23,366 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:19:27,217 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:19:27,921 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:19:28,434 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:19:28,836 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:19:29,251 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:19:29,423 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:19:29,428 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:19:29,440 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:21:23,639 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:21:27,112 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:21:27,485 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:21:27,993 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:21:28,351 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:21:28,690 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:21:28,837 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:21:28,837 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:21:28,856 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:53:28,103 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:53:31,490 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:53:31,848 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:53:32,174 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:53:32,503 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:53:32,832 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:53:32,984 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:53:32,990 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:53:33,002 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:54:24,270 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:54:27,475 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:54:27,835 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:54:28,110 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:54:28,443 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:54:28,854 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:54:29,055 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:54:29,070 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:54:29,076 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 18:57:24,222 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 18:57:27,479 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 18:57:27,857 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 18:57:28,157 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 18:57:28,487 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 18:57:28,860 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 18:57:29,069 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 18:57:29,085 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 18:57:29,098 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 20:43:46,175 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 20:43:49,855 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 20:43:50,215 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 20:43:50,489 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 20:43:50,830 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 20:43:51,156 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 20:43:51,307 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 20:43:51,316 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 20:43:51,324 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 20:47:09,760 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 20:47:13,243 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 20:47:13,639 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 20:47:13,916 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 20:47:14,251 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 20:47:14,601 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 20:47:14,745 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 20:47:14,761 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 20:47:14,764 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 20:49:16,770 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 20:49:20,148 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 20:49:20,531 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 20:49:20,834 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 20:49:21,154 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 20:49:21,469 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 20:49:21,621 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 20:49:21,636 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 20:49:21,642 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 20:53:36,630 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 20:53:39,967 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 20:53:40,388 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 20:53:40,709 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 20:53:41,389 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 20:53:41,981 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 20:53:42,291 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 20:53:42,316 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 20:53:42,346 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 20:54:23,509 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 20:54:26,927 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 20:54:27,283 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 20:54:27,603 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 20:54:27,949 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 20:54:28,286 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 20:54:28,450 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 20:54:28,462 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 20:54:28,468 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:01:57,343 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:02:00,608 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:02:00,992 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:02:01,303 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:02:01,667 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:02:01,962 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:02:02,111 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:02:02,123 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:02:02,131 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:02:57,553 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:03:01,022 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:03:01,425 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:03:01,746 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:03:02,066 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:03:02,410 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:03:02,539 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:03:02,558 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:03:02,567 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:03:53,513 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:03:56,931 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:03:57,324 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:03:57,601 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:03:57,950 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:03:58,261 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:03:58,402 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:03:58,422 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:03:58,431 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:10:34,326 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:10:37,814 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:10:38,184 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:10:38,487 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:10:38,852 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:10:39,207 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:10:39,358 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:10:39,371 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:10:39,379 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:11:46,023 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:11:49,522 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:11:49,885 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:11:50,186 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:11:50,506 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:11:50,831 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:11:50,966 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:11:50,966 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:11:50,984 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:15:17,269 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:15:20,520 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:15:20,943 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:15:21,321 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:15:21,648 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:15:21,964 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:15:22,103 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:15:22,113 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:15:22,122 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:25:29,122 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:25:32,518 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:25:32,873 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:25:33,167 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:25:33,486 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:25:33,829 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:25:33,972 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:25:33,982 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:25:33,990 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 21:49:06,163 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 21:49:09,359 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 21:49:09,843 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 21:49:10,135 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 21:49:10,465 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 21:49:10,763 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 21:49:10,885 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 21:49:10,905 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 21:49:10,913 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 22:00:42,394 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 22:00:45,635 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 22:00:46,020 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 22:00:46,308 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 22:00:46,622 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 22:00:46,954 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 22:00:47,095 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 22:00:47,100 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 22:00:47,110 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-01 22:02:15,551 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_customers'
+2026-10-01 22:02:18,718 - INFO - Success.! 1000163 records fetched from 'staging.raw_olist_geolocation'
+2026-10-01 22:02:19,089 - INFO - Success.! 112650 records fetched from 'staging.raw_olist_order_items'
+2026-10-01 22:02:19,390 - INFO - Success.! 103886 records fetched from 'staging.raw_olist_order_payments'
+2026-10-01 22:02:19,737 - INFO - Success.! 99224 records fetched from 'staging.raw_olist_order_reviews'
+2026-10-01 22:02:20,103 - INFO - Success.! 99441 records fetched from 'staging.raw_olist_orders'
+2026-10-01 22:02:20,315 - INFO - Success.! 32951 records fetched from 'staging.raw_olist_products'
+2026-10-01 22:02:20,329 - INFO - Success.! 3095 records fetched from 'staging.raw_olist_sellers'
+2026-10-01 22:02:20,337 - INFO - Success.! 71 records fetched from 'staging.raw_product_category_name_translation'
+2026-10-03 14:03:11,061 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 14:03:11,061 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 14:03:11,457 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 14:03:15,026 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 14:03:15,484 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 14:03:15,852 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 14:03:16,271 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 14:03:16,674 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 14:03:16,840 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 14:03:16,851 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 14:03:16,858 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 14:03:16,858 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 14:03:16,951 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 14:03:17,167 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 14:03:17,217 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 14:03:17,299 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 14:03:17,299 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 14:03:17,299 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 14:03:17,392 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:03:18,711 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 14:03:18,867 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 14:03:18,932 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 14:03:19,033 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 14:03:19,150 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:03:19,167 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 14:03:19,171 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 14:03:19,171 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 14:03:19,171 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 14:03:19,239 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 14:03:19,273 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:03:19,445 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:03:19,482 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:03:19,501 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:03:19,525 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 14:03:19,606 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 14:03:19,719 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 14:03:19,746 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:03:19,746 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:03:19,746 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 14:03:19,797 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 14:03:19,940 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 14:03:19,940 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 14:03:19,990 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-03 14:10:29,789 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 14:10:29,789 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 14:10:30,135 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 14:10:33,632 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 14:10:33,976 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 14:10:34,267 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 14:10:34,586 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 14:10:34,926 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 14:10:35,080 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 14:10:35,089 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 14:10:35,095 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 14:10:35,095 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 14:10:35,183 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 14:10:35,359 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 14:10:35,403 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 14:10:35,465 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 14:10:35,465 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 14:10:35,465 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 14:10:35,549 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:10:36,650 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 14:10:36,746 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 14:10:36,812 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 14:10:36,905 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 14:10:36,990 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:10:37,055 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 14:10:37,055 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 14:10:37,055 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 14:10:37,055 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 14:10:37,123 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 14:10:37,151 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:10:37,300 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:10:37,336 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:10:37,351 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:10:37,374 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 14:10:37,443 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 14:10:37,539 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 14:10:37,549 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:10:37,549 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:10:37,549 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 14:10:37,601 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 14:10:37,741 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 14:10:37,741 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 14:10:37,788 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 14:10:37,819 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 14:10:37,990 - INFO - [Grain Fix 4] Compressed Reviews data to single row per order. Total Rows: 98673
+2026-10-03 14:10:38,244 - INFO - [Join Step 1] Merged Items + Orders + Reviews. Temporary Fact Rows: 112650
+2026-10-03 14:10:38,765 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-03 14:10:38,765 - INFO - [Audit Check 1 Passed] Row stability verified at 112650 entries.
+2026-10-03 14:14:06,277 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 14:14:06,277 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 14:14:06,613 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 14:14:09,796 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 14:14:10,155 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 14:14:10,439 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 14:14:10,912 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 14:14:11,222 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 14:14:11,367 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 14:14:11,367 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 14:14:11,384 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 14:14:11,384 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 14:14:11,471 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 14:14:11,652 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 14:14:11,693 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 14:14:11,760 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 14:14:11,760 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 14:14:11,760 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 14:14:11,849 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:14:12,973 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 14:14:13,103 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 14:14:13,140 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 14:14:13,273 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 14:14:13,364 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:14:13,396 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 14:14:13,396 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 14:14:13,396 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 14:14:13,396 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 14:14:13,463 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 14:14:13,491 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:14:13,656 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:14:13,680 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:14:13,700 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:14:13,728 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 14:14:13,809 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 14:14:13,887 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 14:14:13,904 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:14:13,904 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:14:13,904 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 14:14:13,953 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 14:14:14,051 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 14:14:14,051 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 14:14:14,106 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 14:14:14,130 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 14:14:14,260 - INFO - [Grain Fix 4] Compressed Reviews data to single row per order. Total Rows: 98673
+2026-10-03 14:14:14,499 - INFO - [Join Step 1] Merged Items + Orders + Reviews. Temporary Fact Rows: 112650
+2026-10-03 14:14:14,992 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-03 14:14:14,992 - INFO - [Audit Check 1 Passed] Row stability verified at 112650 entries.
+2026-10-03 14:14:14,992 - INFO - [Audit Check 2 Passed] Financial audit success. Checked Sum: 16008872.0 BRL
+2026-10-03 14:14:14,992 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-03 14:14:15,021 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-03 14:24:32,323 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 14:24:32,323 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 14:24:32,637 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 14:24:35,930 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 14:24:36,284 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 14:24:36,601 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 14:24:36,941 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 14:24:37,264 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 14:24:37,406 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 14:24:37,416 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 14:24:37,428 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 14:24:37,429 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 14:24:37,517 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 14:24:37,687 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 14:24:37,742 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 14:24:37,806 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 14:24:37,806 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 14:24:37,806 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 14:24:37,895 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:24:39,037 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 14:24:39,154 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 14:24:39,222 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 14:24:39,324 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 14:24:39,421 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:24:39,429 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 14:24:39,445 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 14:24:39,446 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 14:24:39,446 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 14:24:39,512 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 14:24:39,541 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:24:39,687 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:24:39,719 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:24:39,739 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:24:39,767 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 14:24:39,846 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 14:24:39,928 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 14:24:39,945 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:24:39,945 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:24:39,945 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 14:24:39,992 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 14:24:40,095 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 14:24:40,095 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 14:24:40,140 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 14:24:40,174 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 14:24:40,324 - INFO - [Grain Fix 4] Compressed Reviews data to single row per order. Total Rows: 98673
+2026-10-03 14:24:40,568 - INFO - [Join Step 1] Merged Items + Orders + Reviews. Temporary Fact Rows: 112650
+2026-10-03 14:24:41,142 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-03 14:24:41,142 - INFO - [Audit Check 1 Passed] Row stability verified at 112650 entries.
+2026-10-03 14:24:41,144 - INFO - [Audit Check 2 Passed] Financial audit success. Checked Sum: 16008872.0 BRL
+2026-10-03 14:24:41,144 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-03 14:24:41,170 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-03 14:24:41,311 - INFO - Derived columns successfully added. Columns shape: (112650, 20)
+2026-10-03 14:24:41,322 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-03 14:46:23,129 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 14:46:23,139 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 14:46:23,475 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 14:46:27,203 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 14:46:27,563 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 14:46:27,873 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 14:46:28,200 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 14:46:28,575 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 14:46:28,707 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 14:46:28,723 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 14:46:28,731 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 14:46:28,731 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 14:46:28,824 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 14:46:29,008 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 14:46:29,051 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 14:46:29,102 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 14:46:29,102 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 14:46:29,102 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 14:46:29,200 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:46:30,361 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 14:46:30,468 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 14:46:30,519 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 14:46:30,609 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 14:46:30,719 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:46:30,737 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 14:46:30,737 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 14:46:30,737 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 14:46:30,737 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 14:46:30,814 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 14:46:30,848 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:46:30,989 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:46:31,020 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:46:31,035 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:46:31,052 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 14:46:31,141 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 14:46:31,228 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 14:46:31,241 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:46:31,243 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:46:31,243 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 14:46:31,290 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 14:46:31,382 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 14:46:31,382 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 14:46:31,444 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 14:46:31,461 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 14:46:31,609 - INFO - [Grain Fix 4] Compressed Reviews data to single row per order. Total Rows: 98673
+2026-10-03 14:46:31,881 - INFO - [Join Step 1] Merged Items + Orders + Reviews. Temporary Fact Rows: 112650
+2026-10-03 14:46:32,534 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-03 14:46:32,534 - INFO - [Audit Check 1 Passed] Row stability verified at 112650 entries.
+2026-10-03 14:46:32,550 - INFO - [Audit Check 2 Passed] Financial audit success. Checked Sum: 16008872.0 BRL
+2026-10-03 14:46:32,550 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-03 14:46:32,574 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-03 14:46:32,682 - INFO - Derived columns successfully added. Columns shape: (112650, 20)
+2026-10-03 14:46:32,689 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-03 14:56:47,640 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 14:56:47,640 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 14:56:47,959 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 14:56:51,230 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 14:56:51,587 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 14:56:51,879 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 14:56:52,202 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 14:56:52,622 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 14:56:52,794 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 14:56:52,803 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 14:56:52,810 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 14:56:52,810 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 14:56:52,904 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 14:56:53,111 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 14:56:53,160 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 14:56:53,223 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 14:56:53,223 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 14:56:53,223 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 14:56:53,311 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:56:54,464 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 14:56:54,575 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 14:56:54,636 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 14:56:54,726 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 14:56:54,826 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 14:56:54,848 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 14:56:54,851 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 14:56:54,851 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 14:56:54,851 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 14:56:54,909 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 14:56:54,943 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:56:55,091 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:56:55,126 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:56:55,142 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:56:55,166 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 14:56:55,250 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 14:56:55,334 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 14:56:55,343 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:56:55,351 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 14:56:55,351 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 14:56:55,400 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 14:56:55,508 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 14:56:55,509 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 14:56:55,563 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 14:56:55,580 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 14:56:56,559 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 110180
+2026-10-03 14:56:56,559 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-03 14:56:56,580 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-03 14:56:56,676 - INFO - Derived columns successfully added. Columns shape: (110180, 20)
+2026-10-03 14:56:56,692 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-03 14:56:56,776 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-03 14:56:56,776 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-03 15:48:41,085 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 15:48:41,085 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 15:48:41,447 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 15:48:44,881 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 15:48:45,412 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 15:48:45,852 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 15:48:46,261 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 15:48:46,655 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 15:48:46,815 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 15:48:46,831 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 15:48:46,836 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 15:48:46,836 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 15:48:46,931 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 15:48:47,123 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 15:48:47,165 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 15:48:47,230 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 15:48:47,230 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 15:48:47,230 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 15:48:47,314 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 15:48:48,499 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 15:48:48,611 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 15:48:48,661 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 15:48:48,751 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 15:48:48,840 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 15:48:48,867 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 15:48:48,869 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 15:48:48,869 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 15:48:48,869 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 15:48:48,933 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 15:48:48,967 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:48:49,101 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:48:49,142 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:48:49,156 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:48:49,179 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 15:48:49,258 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 15:48:49,350 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 15:48:49,363 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:48:49,363 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:48:49,363 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 15:48:49,413 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 15:48:49,522 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 15:48:49,522 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 15:48:49,573 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 15:48:49,596 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 15:48:50,593 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-03 15:48:50,595 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-03 15:48:50,618 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-03 15:48:50,735 - INFO - Derived columns successfully added. Columns shape: (112650, 20)
+2026-10-03 15:48:50,745 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-03 15:48:50,842 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-03 15:48:50,849 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-03 15:49:06,762 - INFO - [Load Step] Successfully loaded analytics.fact_orders | Total Rows: 112650
+2026-10-03 15:49:06,777 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-03 15:49:06,777 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-03 15:51:22,747 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 15:51:22,747 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 15:51:23,098 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 15:51:26,714 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 15:51:27,115 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 15:51:27,425 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 15:51:27,816 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 15:51:28,210 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 15:51:28,349 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 15:51:28,349 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 15:51:28,366 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 15:51:28,366 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 15:51:28,460 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 15:51:28,641 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 15:51:28,688 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 15:51:28,750 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 15:51:28,750 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 15:51:28,750 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 15:51:28,836 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 15:51:29,971 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 15:51:30,095 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 15:51:30,152 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 15:51:30,246 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 15:51:30,353 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 15:51:30,370 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 15:51:30,374 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 15:51:30,374 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 15:51:30,375 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 15:51:30,441 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 15:51:30,467 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:51:30,600 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:51:30,640 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:51:30,656 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:51:30,678 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 15:51:30,754 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 15:51:30,850 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 15:51:30,856 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:51:30,864 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:51:30,864 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 15:51:30,912 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 15:51:31,014 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 15:51:31,014 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 15:51:31,070 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 15:51:31,094 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 15:51:31,977 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-03 15:51:31,977 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-03 15:51:32,014 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-03 15:51:32,117 - INFO - Derived columns successfully added. Columns shape: (112650, 20)
+2026-10-03 15:51:32,129 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-03 15:51:32,254 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-03 15:51:32,266 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-03 15:55:35,022 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-03 15:55:35,022 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-03 15:55:35,391 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-03 15:55:39,222 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-03 15:55:39,658 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-03 15:55:39,994 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-03 15:55:40,340 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-03 15:55:40,692 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-03 15:55:40,837 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-03 15:55:40,851 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-03 15:55:40,861 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-03 15:55:40,861 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-03 15:55:40,949 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-03 15:55:41,149 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-03 15:55:41,195 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-03 15:55:41,259 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-03 15:55:41,259 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-03 15:55:41,259 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-03 15:55:41,339 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 15:55:42,460 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-03 15:55:42,564 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-03 15:55:42,617 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-03 15:55:42,731 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-03 15:55:42,820 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-03 15:55:42,852 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-03 15:55:42,855 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-03 15:55:42,855 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-03 15:55:42,855 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-03 15:55:42,918 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-03 15:55:42,953 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:55:43,156 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:55:43,181 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:55:43,194 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:55:43,227 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-03 15:55:43,306 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-03 15:55:43,399 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-03 15:55:43,412 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:55:43,412 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-03 15:55:43,412 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-03 15:55:43,452 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-03 15:55:43,557 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-03 15:55:43,557 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-03 15:55:43,613 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-03 15:55:43,634 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-03 15:55:44,612 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-03 15:55:44,620 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-03 15:55:44,644 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-03 15:55:44,755 - INFO - Derived columns successfully added. Columns shape: (112650, 20)
+2026-10-03 15:55:44,769 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-03 15:55:44,856 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-03 15:55:44,856 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-03 15:56:01,686 - INFO - [Load Step] Successfully loaded warehouse.fact_orders | Total Rows: 112650
+2026-10-03 15:56:01,705 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-03 15:56:01,706 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-05 12:26:44,328 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-05 12:26:44,330 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-05 12:26:45,036 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-05 12:26:48,405 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-05 12:26:48,888 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-05 12:26:49,331 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-05 12:26:49,812 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-05 12:26:50,256 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-05 12:26:50,473 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-05 12:26:50,516 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-05 12:26:50,523 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-05 12:26:50,523 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-05 12:26:50,612 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-05 12:26:50,832 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-05 12:26:50,885 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-05 12:26:50,940 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-05 12:26:50,940 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-05 12:26:50,940 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-05 12:26:51,068 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 12:26:52,317 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-05 12:26:52,465 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-05 12:26:52,540 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-05 12:26:52,644 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-05 12:26:52,740 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 12:26:52,744 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-05 12:26:52,759 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-05 12:26:52,759 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-05 12:26:52,759 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-05 12:26:52,822 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-05 12:26:52,856 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:26:53,031 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:26:53,094 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:26:53,119 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:26:53,142 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-05 12:26:53,222 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-05 12:26:53,305 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-05 12:26:53,320 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:26:53,320 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:26:53,320 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-05 12:26:53,371 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-05 12:26:53,504 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-05 12:26:53,504 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-05 12:26:53,555 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-05 12:26:53,581 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-05 12:26:54,534 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-05 12:26:54,535 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-05 12:26:54,561 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-05 12:26:54,688 - INFO - Derived columns successfully added. Columns shape: (112650, 20)
+2026-10-05 12:26:54,690 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-05 12:26:54,782 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-05 12:26:54,789 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-05 12:27:11,015 - INFO - [Load Step] Successfully loaded warehouse.fact_orders | Total Rows: 112650
+2026-10-05 12:27:11,031 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-05 12:27:11,031 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-05 12:57:55,959 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-05 12:57:55,959 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-05 12:57:56,301 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-05 12:57:59,812 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-05 12:58:00,449 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-05 12:58:00,736 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-05 12:58:01,071 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-05 12:58:01,396 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-05 12:58:01,599 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-05 12:58:01,615 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-05 12:58:01,625 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-05 12:58:01,625 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-05 12:58:01,738 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-05 12:58:01,952 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-05 12:58:01,992 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-05 12:58:02,082 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-05 12:58:02,082 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-05 12:58:02,082 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-05 12:58:02,162 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 12:58:03,345 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-05 12:58:03,460 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-05 12:58:03,512 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-05 12:58:03,610 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-05 12:58:03,712 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 12:58:03,732 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-05 12:58:03,733 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-05 12:58:03,733 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-05 12:58:03,733 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-05 12:58:03,799 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-05 12:58:03,827 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:58:04,000 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:58:04,033 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:58:04,053 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:58:04,071 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-05 12:58:04,198 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-05 12:58:04,233 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-05 12:58:04,243 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:58:04,243 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 12:58:04,243 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-05 12:58:04,300 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-05 12:58:04,397 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-05 12:58:04,397 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-05 12:58:04,453 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-05 12:58:04,481 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-05 12:58:05,387 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-05 12:58:05,388 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-05 12:58:05,407 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-05 12:58:05,531 - INFO - Derived columns successfully added. Columns shape: (112650, 20)
+2026-10-05 12:58:05,539 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-05 12:58:05,635 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-05 12:58:05,636 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-05 12:58:21,972 - INFO - [Load Step] Successfully loaded warehouse.fact_orders | Total Rows: 112650
+2026-10-05 12:58:21,981 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-05 12:58:21,981 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-05 15:55:50,877 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-05 15:55:50,877 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-05 15:55:51,184 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-05 15:55:53,875 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-05 15:55:54,146 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-05 15:55:54,364 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-05 15:55:54,617 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-05 15:55:54,862 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-05 15:55:54,977 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-05 15:55:54,985 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-05 15:55:54,991 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-05 15:55:54,991 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-05 15:55:55,072 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-05 15:55:55,218 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-05 15:55:55,293 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-05 15:55:55,342 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-05 15:55:55,342 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-05 15:55:55,342 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-05 15:55:55,413 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 15:55:56,271 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-05 15:55:56,372 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-05 15:55:56,403 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-05 15:55:56,483 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-05 15:55:56,546 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 15:55:56,554 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-05 15:55:56,562 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-05 15:55:56,563 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-05 15:55:56,563 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-05 15:55:56,614 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-05 15:55:56,634 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 15:55:56,736 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 15:55:56,755 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 15:55:56,768 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 15:55:56,793 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-05 15:55:56,849 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-05 15:55:56,874 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-05 15:55:56,874 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 15:55:56,887 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 15:55:56,887 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-05 15:55:56,921 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-05 15:55:57,000 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-05 15:55:57,000 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-05 15:55:57,058 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-05 15:55:57,075 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-05 15:55:57,711 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-05 15:55:57,711 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-05 15:55:57,733 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-05 15:55:58,303 - INFO - Derived columns successfully added. Columns shape: (112650, 21)
+2026-10-05 15:55:58,311 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-05 15:55:58,379 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-05 15:55:58,382 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-05 15:56:00,256 - INFO - [Load Step] Loaded warehouse.dim_customers | Rows: 99441
+2026-10-05 15:56:02,427 - INFO - [Load Step] Loaded warehouse.dim_products | Rows: 32951
+2026-10-05 15:56:02,642 - INFO - [Load Step] Loaded warehouse.dim_sellers | Rows: 3095
+2026-10-05 15:56:15,875 - INFO - [Load Step] Loaded warehouse.fact_orders | Rows: 112650
+2026-10-05 15:56:15,881 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-05 15:56:15,881 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-05 16:14:09,340 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-05 16:14:09,340 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-05 16:14:09,579 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-05 16:14:12,491 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-05 16:14:12,789 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-05 16:14:13,027 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-05 16:14:13,275 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-05 16:14:13,576 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-05 16:14:13,681 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-05 16:14:13,687 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-05 16:14:13,695 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-05 16:14:13,695 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-05 16:14:13,766 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-05 16:14:13,907 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-05 16:14:13,936 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-05 16:14:13,984 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-05 16:14:13,984 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-05 16:14:13,984 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-05 16:14:14,048 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:14:14,954 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-05 16:14:15,037 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-05 16:14:15,078 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-05 16:14:15,155 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-05 16:14:15,222 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:14:15,237 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-05 16:14:15,237 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-05 16:14:15,237 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-05 16:14:15,237 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-05 16:14:15,301 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-05 16:14:15,323 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:14:15,430 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:14:15,446 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:14:15,462 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:14:15,478 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-05 16:14:15,537 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-05 16:14:15,567 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-05 16:14:15,567 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:14:15,567 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:14:15,567 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-05 16:14:15,600 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-05 16:14:15,687 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-05 16:14:15,687 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-05 16:14:15,750 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-05 16:14:15,769 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-05 16:14:16,438 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-05 16:14:16,438 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-05 16:14:16,458 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-05 16:14:17,017 - INFO - Derived columns successfully added. Columns shape: (112650, 21)
+2026-10-05 16:14:17,033 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-05 16:14:17,101 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-05 16:14:17,103 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-05 16:14:19,035 - INFO - [Load Step] Loaded warehouse.dim_customers | Rows: 99441
+2026-10-05 16:14:21,282 - INFO - [Load Step] Loaded warehouse.dim_products | Rows: 32951
+2026-10-05 16:14:21,499 - INFO - [Load Step] Loaded warehouse.dim_sellers | Rows: 3095
+2026-10-05 16:14:34,263 - INFO - [Load Step] Loaded warehouse.fact_orders | Rows: 112650
+2026-10-05 16:14:34,277 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-05 16:14:34,277 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-05 16:17:42,261 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-05 16:17:42,261 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-05 16:17:42,697 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-05 16:17:46,218 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-05 16:17:46,557 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-05 16:17:46,835 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-05 16:17:47,137 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-05 16:17:47,417 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-05 16:17:47,558 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-05 16:17:47,558 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-05 16:17:47,571 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-05 16:17:47,571 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-05 16:17:47,647 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-05 16:17:47,808 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-05 16:17:47,843 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-05 16:17:47,907 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-05 16:17:47,907 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-05 16:17:47,907 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-05 16:17:47,978 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:17:49,224 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-05 16:17:49,322 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-05 16:17:49,359 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-05 16:17:49,449 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-05 16:17:49,533 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:17:49,554 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-05 16:17:49,554 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-05 16:17:49,554 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-05 16:17:49,554 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-05 16:17:49,612 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-05 16:17:49,631 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:17:49,755 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:17:49,771 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:17:49,787 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:17:49,807 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-05 16:17:49,871 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-05 16:17:49,899 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-05 16:17:49,913 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:17:49,913 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:17:49,914 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-05 16:17:49,947 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-05 16:17:50,031 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-05 16:17:50,031 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-05 16:17:50,091 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-05 16:17:50,108 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-05 16:17:50,852 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-05 16:17:50,852 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-05 16:17:50,874 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-05 16:17:51,435 - INFO - Derived columns successfully added. Columns shape: (112650, 21)
+2026-10-05 16:17:51,451 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-05 16:17:51,527 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-05 16:17:51,531 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-05 16:17:53,385 - INFO - [Load Step] Loaded warehouse.dim_customers | Rows: 99441
+2026-10-05 16:17:55,640 - INFO - [Load Step] Loaded warehouse.dim_products | Rows: 32951
+2026-10-05 16:17:55,871 - INFO - [Load Step] Loaded warehouse.dim_sellers | Rows: 3095
+2026-10-05 16:18:08,552 - INFO - [Load Step] Loaded warehouse.fact_orders | Rows: 112650
+2026-10-05 16:18:08,561 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-05 16:18:08,561 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-05 16:22:32,747 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-05 16:22:32,747 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-05 16:22:32,989 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-05 16:22:35,627 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-05 16:22:35,889 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-05 16:22:36,095 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-05 16:22:36,344 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-05 16:22:36,580 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-05 16:22:36,681 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-05 16:22:36,681 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-05 16:22:36,693 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-05 16:22:36,693 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-05 16:22:36,761 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-05 16:22:36,881 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-05 16:22:36,924 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-05 16:22:36,997 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-05 16:22:36,997 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-05 16:22:36,997 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-05 16:22:37,064 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:22:37,886 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-05 16:22:37,965 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-05 16:22:37,997 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-05 16:22:38,063 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-05 16:22:38,134 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:22:38,141 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-05 16:22:38,141 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-05 16:22:38,141 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-05 16:22:38,141 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-05 16:22:38,198 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-05 16:22:38,219 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:22:38,329 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:22:38,345 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:22:38,364 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:22:38,378 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-05 16:22:38,444 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-05 16:22:38,469 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-05 16:22:38,486 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:22:38,486 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:22:38,486 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-05 16:22:38,518 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-05 16:22:38,598 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-05 16:22:38,598 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-05 16:22:38,681 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-05 16:22:38,700 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-05 16:22:39,326 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-05 16:22:39,326 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-05 16:22:39,358 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-05 16:22:39,898 - INFO - Derived columns successfully added. Columns shape: (112650, 21)
+2026-10-05 16:22:39,901 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-05 16:22:39,970 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-05 16:22:39,973 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-05 16:22:41,588 - INFO - [Load Step] Loaded warehouse.dim_customers | Rows: 99441
+2026-10-05 16:22:43,800 - INFO - [Load Step] Loaded warehouse.dim_products | Rows: 32951
+2026-10-05 16:22:44,030 - INFO - [Load Step] Loaded warehouse.dim_sellers | Rows: 3095
+2026-10-05 16:22:44,106 - INFO - [Load Step] Loaded warehouse.dim_date | Rows: 634
+2026-10-05 16:23:00,153 - INFO - [Load Step] Loaded warehouse.fact_orders | Rows: 112650
+2026-10-05 16:23:00,153 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-05 16:23:00,153 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
+2026-10-05 16:36:55,212 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN STARTED ====================
+2026-10-05 16:36:55,212 - INFO - --- [Extraction Step] Fetching Data From Staging Schema Started ---
+2026-10-05 16:36:55,521 - INFO - Successfully fetched staging.raw_olist_customers | Row Count: 99441
+2026-10-05 16:36:58,290 - INFO - Successfully fetched staging.raw_olist_geolocation | Row Count: 1000163
+2026-10-05 16:36:58,585 - INFO - Successfully fetched staging.raw_olist_order_items | Row Count: 112650
+2026-10-05 16:36:58,800 - INFO - Successfully fetched staging.raw_olist_order_payments | Row Count: 103886
+2026-10-05 16:36:59,072 - INFO - Successfully fetched staging.raw_olist_order_reviews | Row Count: 99224
+2026-10-05 16:36:59,315 - INFO - Successfully fetched staging.raw_olist_orders | Row Count: 99441
+2026-10-05 16:36:59,422 - INFO - Successfully fetched staging.raw_olist_products | Row Count: 32951
+2026-10-05 16:36:59,438 - INFO - Successfully fetched staging.raw_olist_sellers | Row Count: 3095
+2026-10-05 16:36:59,442 - INFO - Successfully fetched staging.raw_product_category_name_translation | Row Count: 71
+2026-10-05 16:36:59,442 - INFO - --- [Extraction Step] Fetching Data Completed ---
+2026-10-05 16:36:59,511 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Started ---
+2026-10-05 16:36:59,658 - INFO - [olist_orders_dataset] Converted 5 columns to datetime format. Rows: 99441
+2026-10-05 16:36:59,679 - INFO - [olist_order_items_dataset] Converted shipping_limit_date, price, and freight_value. Rows: 112650
+2026-10-05 16:36:59,740 - INFO - [olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: 99224
+2026-10-05 16:36:59,740 - INFO - --- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---
+2026-10-05 16:36:59,740 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---
+2026-10-05 16:36:59,814 - INFO - [olist_customers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:37:00,647 - INFO - [olist_geolocation_dataset.csv] Duplicates Cleaned | Before: 1000163 | After: 738332 | Dropped: 261831
+2026-10-05 16:37:00,729 - INFO - [olist_order_items_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 112650
+2026-10-05 16:37:00,761 - INFO - [olist_order_payments_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 103886
+2026-10-05 16:37:00,828 - INFO - [olist_order_reviews_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99224
+2026-10-05 16:37:00,883 - INFO - [olist_orders_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 99441
+2026-10-05 16:37:00,899 - INFO - [olist_products_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 32951
+2026-10-05 16:37:00,899 - INFO - [olist_sellers_dataset.csv] Clean. 0 duplicates found across dataset. Rows: 3095
+2026-10-05 16:37:00,899 - INFO - [product_category_name_translation.csv] Clean. 0 duplicates found across dataset. Rows: 71
+2026-10-05 16:37:00,899 - INFO - --- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---
+2026-10-05 16:37:00,961 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Started ---
+2026-10-05 16:37:00,978 - INFO - [olist_customers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:37:01,090 - INFO - [olist_geolocation_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:37:01,103 - INFO - [olist_order_items_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:37:01,119 - INFO - [olist_order_payments_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:37:01,135 - INFO - [olist_order_reviews_dataset.csv] Processing missing fields. Total initial null counts: 145903
+2026-10-05 16:37:01,200 - INFO - [olist_orders_dataset.csv] Processing missing fields. Total initial null counts: 4908
+2026-10-05 16:37:01,226 - INFO - [olist_products_dataset.csv] Processing missing fields. Total initial null counts: 2448
+2026-10-05 16:37:01,226 - INFO - [olist_sellers_dataset.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:37:01,226 - INFO - [product_category_name_translation.csv] 0 missing parameters detected. Keeping clean structure.
+2026-10-05 16:37:01,226 - INFO - --- [Day 2 - Step 3] Missing Value Handling Engine Finished ---
+2026-10-05 16:37:01,276 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Started ---
+2026-10-05 16:37:01,349 - INFO - [dim_products] Translation successfully completed. Rows verified: 32951 (Before: 32951)
+2026-10-05 16:37:01,349 - INFO - --- [Day 2 - Step 4] Category Translation Mapping Completed ---
+2026-10-05 16:37:01,435 - INFO - --- [Day 3] Central Fact Table Joins Engine Started ---
+2026-10-05 16:37:01,440 - INFO - [Grain Profile] Base Items: 112650 rows | Raw Payments: 103886 rows | Raw Reviews: 99224 rows
+2026-10-05 16:37:02,091 - INFO - [Join Step 2] Managed payment allocations. Finalized Fact size: 112650
+2026-10-05 16:37:02,091 - INFO - --- [Day 3] Central Fact Table Joins Engine Completed Successfully ---
+2026-10-05 16:37:02,114 - INFO - --- [Day 4] Derived Columns Generation Started ---
+2026-10-05 16:37:02,674 - INFO - Derived columns successfully added. Columns shape: (112650, 21)
+2026-10-05 16:37:02,674 - INFO - --- [Day 4] Data Quality Engine Started ---
+2026-10-05 16:37:02,751 - INFO - --- [Day 4] All Data Quality Checks Passed Without Exception ---
+2026-10-05 16:37:02,754 - INFO - --- [Day 5] Load Layer & Data Quality Report Generation Started ---
+2026-10-05 16:37:04,437 - INFO - [Load Step] Loaded warehouse.dim_customers | Rows: 99441
+2026-10-05 16:37:06,807 - INFO - [Load Step] Loaded warehouse.dim_products | Rows: 32951
+2026-10-05 16:37:07,039 - INFO - [Load Step] Loaded warehouse.dim_sellers | Rows: 3095
+2026-10-05 16:37:07,131 - INFO - [Load Step] Loaded warehouse.dim_date | Rows: 634
+2026-10-05 16:37:19,853 - INFO - [Load Step] Loaded warehouse.fact_orders | Rows: 112650
+2026-10-05 16:37:19,853 - INFO - --- [Day 5] Pipeline Completed. Data Quality Report Generated Successfully ---
+2026-10-05 16:37:19,853 - INFO - ==================== WEEK 2 TRANSFORM ENGINE RUN SUCCESSFUL ====================
