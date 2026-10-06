@@ -41,14 +41,14 @@ This project addresses the challenges of dealing with fragmented retail data. It
 
 ## Progress Milestones
 
-### 🌟 Week 1: Ingestion & Staging Setup (Extract Layer)
+### Week 1: Ingestion & Staging Setup (Extract Layer)
 The first milestone successfully established the framework infrastructure to secure raw inputs:
 *   **Infrastructure Setup:** Spun up a lightweight PostgreSQL 15 database instance using a Docker container, isolating storage with managed volumes.
 *   **Strict Ingestion Layer (`extract.py`):** Configured a centralized `SCHEMA` mapping with explicit data types (like setting zip codes and IDs as `string`) to prevent typical pandas parsing issues.
 *   **Automated Data Profiling:** Implemented profiling algorithms that automatically calculate row counts, exact row duplicates, and specific missing value percentages, saving them directly into a clean Markdown report (`raw_data_profile_report.md`).
 *   **Staging Load Automation (`run_extract.py`):** Developed an end-to-end runner script that automatically creates a secure staging environment (`staging` schema), streams all 9 raw CSV files, chunks them in batches of 10,000 records, and safely loads them into the staging schema with robust exception logging.
 
-### 🌟 Week 2: Star Schema Architecture & Data Quality Guardrails (Transform Layer)
+### Week 2: Star Schema Architecture & Data Quality Guardrails (Transform Layer)
 The second milestone extracts data from staging, handles analytical anomalies, enforces validation rules, and builds a performant data warehouse structure:
 *   **Dimensional Modeling (Star Schema):** Designed and deployed a multi-tier warehouse architecture inside the `warehouse` schema consisting of:
     *   `fact_orders`: Consolidated transaction framework optimized to resolve relationship structures. Aggregates review data and leverages a **proportional payment allocation map** to effectively prevent the common revenue inflation bug caused by unchecked many-to-many joins.
@@ -73,8 +73,8 @@ Make sure you have **Python 3.10+** and **Docker Desktop** installed on your sys
 Create a `.env` file in the root folder with your database credentials:
 ```env
 DB_USER=your_username
-DB_PASSWORD=your_password
-DB_NAME=olist_db
+DB_PASSWORD=secure_password123
+DB_NAME=olist_ecommerce_etl_db
 DB_HOST=localhost
 DB_PORT=5433
 ```
