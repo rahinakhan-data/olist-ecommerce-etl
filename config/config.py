@@ -1,11 +1,4 @@
-# import requires libraries and module
-import pandas as pd
-from pathlib import Path
-
-BASE_DIR = Path().resolve()
-DATA_DIR = BASE_DIR / 'data'
-LOG_DIR = BASE_DIR / 'logs'
-
+# Define strict data types and schema structure for all raw CSV files. 
 SCHEMA = {
             "olist_customers_dataset.csv" : {
                     "customer_id" : "string",
