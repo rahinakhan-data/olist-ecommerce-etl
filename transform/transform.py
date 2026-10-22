@@ -1,46 +1,45 @@
-import os
+# Import requied libraries
 import sys
 import logging
 import pandas as pd
 from pathlib import Path
-from sqlalchemy import text, create_engine
-from dotenv import load_dotenv
 
+# Finds the exact path of your main project folder
 BASE_DIR = Path().resolve()
-if str(BASE_DIR) not in sys.path:
-    sys.path.append(str(BASE_DIR))
+if str(BASE_DIR) not in sys.path:   # Checks if python knows where the main folder is
+    sys.path.append(str(BASE_DIR))  # Adds the main folder to python's path list
 
-from config.config import SCHEMA, LOG_DIR
+from config.db_utils import REPORTS_DIR, LOGS_DIR
 
-LOG_DIR.mkdir(exist_ok=True)
+LOGS_DIR.mkdir(exist_ok=True)    # Make logs folder container if missing
+REPORTS_DIR.mkdir(exist_ok=True) # Make reports folder container if missing
+
+# Set up log settings rules
 logging.basicConfig(
-    filename= LOG_DIR / 'transform_pipeline_logs.log',
+    filename= LOGS_DIR / 'transform_pipeline_logs.log',
     level= logging.INFO,
     format= "%(asctime)s - %(levelname)s - %(message)s",
     filemode= 'a',
-)
-
-REPORTS_DIR = BASE_DIR / 'reports'
-REPORTS_DIR.mkdir(exist_ok=True)
+)  
 
 # ==========================================================================================================
 # 1. Function to convert data types
 # ==========================================================================================================
 def convert_dtypes(dfs):
-    
     # Create a secure clean storage dictionary
     cleaned_dfs = {}
 
-    for file_name, df in dfs.items():
-        cleaned_dfs[file_name] = df.copy()
+    for file_name, df in dfs.items():       # Check each incoming data table entry
+        cleaned_dfs[file_name] = df.copy()  # Make a safe copy to protect original rows data
 
-    logging.info("--- [Day 2 - Step 1] Explicit Datatype Conversions Started ---")
+    logging.info("--- Explicit Datatype Conversions Started ---")
 
     # A. Order dataset conversion
-    if 'olist_orders_dataset.csv' in cleaned_dfs:
-        df = cleaned_dfs['olist_orders_dataset.csv']
+    if 'olist_orders_dataset.csv' in cleaned_dfs:       # Check if orders file exists in dictionary keys
+        df = cleaned_dfs['olist_orders_dataset.csv']    # Select order dataset table into working frame variables
         print("-------------------------------Datatypes Before conversion---------------------------")
         print(df.dtypes)
+        # List out date columns that need fixing
         datetime_columns = ['order_purchase_timestamp', 
                                 'order_approved_at', 
                                 'order_delivered_carrier_date', 
@@ -49,6 +48,7 @@ def convert_dtypes(dfs):
                             ]
         # loop to convert each column datatype
         for col in datetime_columns:
+            # Change text to clean datetime formats (bad fields turn into empty blanks
             df[col] = pd.to_datetime(df[col], errors='coerce')
 
         print("-------------------------------Datatypes After conversion---------------------------")
@@ -58,8 +58,8 @@ def convert_dtypes(dfs):
         logging.info(f"[olist_orders_dataset] Converted {len(datetime_columns)} columns to datetime format. Rows: {len(df)}")
 
     # B. Order Items Dataset Conversion
-    if 'olist_order_items_dataset.csv' in cleaned_dfs:
-        df = cleaned_dfs['olist_order_items_dataset.csv']
+    if 'olist_order_items_dataset.csv' in cleaned_dfs:      # Check if orders item table data exists
+        df = cleaned_dfs['olist_order_items_dataset.csv']   # Select items table dataset into working space
         print("-------------------------------Datatypes Before conversion---------------------------")
         print(df.dtypes)
 
@@ -68,6 +68,7 @@ def convert_dtypes(dfs):
 
         # Convert currency parameters securely to numeric float formats
         for col in ['price', 'freight_value']:
+            # Convert price text fields into proper float numbers numbers safely
             df[col] = pd.to_numeric(df[col], errors='coerce')
         
         print("-------------------------------Datatypes After conversion---------------------------")
@@ -90,7 +91,7 @@ def convert_dtypes(dfs):
         print("Success..! 'review_creation_date' and 'review_answer_timestamp' converted into datetime object\n") 
         logging.info(f"[olist_order_reviews_dataset] Converted review_creation_date and review_answer_timestamp. Rows: {len(df)}")
  
-    logging.info("--- [Day 2 - Step 1] Explicit Datatype Conversions Completed ---")
+    logging.info("--- Explicit Datatype Conversions Completed ---")
     return cleaned_dfs
 
 # ====================================================================================================================
@@ -98,7 +99,7 @@ def convert_dtypes(dfs):
 # ====================================================================================================================
 def remove_duplicates(dfs):
     print("============================= Handling Duplicate records started ===================================")
-    logging.info("--- [Day 2 - Step 2] Duplicate Row Removal Scan Started ---")
+    logging.info("--- Duplicate Row Removal Scan Started ---")
 
     cleaned_dfs = {}
     for file_name, df in dfs.items():
@@ -110,7 +111,7 @@ def remove_duplicates(dfs):
 
         # drop the rows if exact duplicate records exist
         if duplicate_records > 0:
-            print(f"Total {duplicate_records} records found in {file_name}\n")
+            print(f"Total {duplicate_records} duplicate records found in {file_name}\n")
             cleaned_dfs[file_name].drop_duplicates(inplace=True)
             print(f" -> Clean Complete | Rows Before: {before_rows} | Rows After: {len(cleaned_dfs[file_name])}\n")
             logging.info(f"[{file_name}] Duplicates Cleaned | Before: {before_rows} | After: {len(cleaned_dfs[file_name])} | Dropped: {duplicate_records}")
@@ -118,7 +119,7 @@ def remove_duplicates(dfs):
             logging.info(f"[{file_name}] Clean. 0 duplicates found across dataset. Rows: {before_rows}")
 
     print("============================= Handling Duplicate records end ======================================")
-    logging.info("--- [Day 2 - Step 2] Duplicate Row Removal Scan Completed ---")
+    logging.info("--- Duplicate Row Removal Scan Completed ---")
     return cleaned_dfs
 
 # =====================================================================================================================
@@ -126,41 +127,39 @@ def remove_duplicates(dfs):
 # =====================================================================================================================
 def handle_null_values(dfs):
     print("============================= Handling Null Values Started ===================================")
-    logging.info("--- [Day 2 - Step 3] Missing Value Handling Engine Started ---")
+    logging.info("--- Missing Value Handling Engine Started ---")
 
     cleaned_dfs = {}
     try:
         for file_name, df in dfs.items():
             df_clean = df.copy()
+
+            # Print data health profile before starting the cleanup
+            print(f"\n>>>> [BEFORE CLEANING] File: {file_name} <<<<")
+            print(df_clean.isnull().sum())
+
             null_counts = df_clean.isnull().sum().sum()
-            
             if null_counts > 0:
-                print(f"Total {null_counts} null values found in {file_name}")
                 logging.info(f"[{file_name}] Processing missing fields. Total initial null counts: {null_counts}")
 
-                num_cols = df_clean.select_dtypes(include = 'number').columns
-                cat_cols = df_clean.select_dtypes(include = ['object', 'string']).columns
-                datetime_columns = df_clean.select_dtypes(include = 'datetime64').columns
+                # Group columns dynamically based on their data type categories
+                num_cols = df_clean.select_dtypes(include='number').columns
+                cat_cols = df_clean.select_dtypes(include=['object', 'string']).columns
+                datetime_columns = df_clean.select_dtypes(include='datetime64').columns
+                
                 try:
-                    # 1. Handle Critical Primary Keys
+                    # 1. Drop complete rows if critical primary or foreign key columns are completely missing
                     critical_keys = [col for col in ['order_id', 'customer_id', 'product_id', 'seller_id'] if col in df_clean.columns]
-                    
-                    # Remove complete row records where major unique identity keys are completely blank
                     for col in critical_keys:
-                        col_nulls = df_clean[col].isnull().sum()
-                        if col_nulls > 0:
-                            before_rows = len(df_clean)
-                            print(f"Before Handling Null Values in {col}")
-                            print(f"Total rows: {before_rows} | Total Null Values: {df_clean[col].isnull().sum()}")
-                            print(f"Dropping rows of {col} with null values.")
-                            df_clean = df_clean.dropna(subset = col)
-                            after_rows = len(df_clean)
-                            print(f"After Handling Null Values in {col} ")
-                            print(f"Total rows: {after_rows} | Total Null Values: {df_clean[col].isnull().sum()}")
+                        if df_clean[col].isnull().sum() > 0:
+                            df_clean = df_clean.dropna(subset=[col])
 
-                    # 2. Handle Categorical Columns
+                    # 2. Assign descriptive string replacements for missing categorical details
                     for col in cat_cols:
-                        if df_clean[col].isnull().sum()>0:
+                        df_clean[col] = df_clean[col].astype(str).str.strip()
+                        df_clean[col] = df_clean[col].replace(['', ' ', 'nan', 'NAN', 'null', 'NULL', 'None'], None)
+
+                        if df_clean[col].isnull().sum() > 0:
                             if col == 'product_category_name':
                                 df_clean[col] = df_clean[col].fillna("missing_category")
                             elif col == 'review_comment_title':
@@ -170,23 +169,43 @@ def handle_null_values(dfs):
                             else:
                                 df_clean[col] = df_clean[col].fillna("Unknown")
 
-                    # 3. Handle Numerical Columns                   
+                    # 3. Assign 0 defaults for any unhandled missing numerical column variables
                     for col in num_cols:
-                        if df_clean[col].isnull().sum()>0:
+                        if df_clean[col].isnull().sum() > 0:
                             df_clean[col] = df_clean[col].fillna(0)
 
+                    # 4. Handle Datetime columns using sequential forward business milestone fallbacks
+                    for col in datetime_columns:
+                        # Fallback order approval timestamp onto the core order purchase timestamp
+                        if col == 'order_approved_at':
+                            df_clean['order_approved_at'] = df_clean['order_approved_at'].fillna(df_clean['order_purchase_timestamp'])
+                        
+                        # Fallback logistics carrier handoff onto order approval date limits
+                        if col == 'order_delivered_carrier_date':
+                            df_clean['order_delivered_carrier_date'] = df_clean['order_delivered_carrier_date'].fillna(df_clean['order_approved_at'])
+                        
+                        # Set customer delivery onto estimated dates (results in a clean 0 delay count)
+                        if col == 'order_delivered_customer_date':
+                            df_clean['order_delivered_customer_date'] = df_clean['order_delivered_customer_date'].fillna(df_clean['order_estimated_delivery_date'])
+    
                 except Exception as err:
-                    print("Error: ",err)
+                    print(f"Error inside processing loops for {file_name}: ", err)
             else:
-                logging.info(f"[{file_name}] 0 missing parameters detected. Keeping clean structure.")       
-            cleaned_dfs[file_name] = df_clean
+                logging.info(f"[{file_name}] 0 missing parameters detected. Keeping clean structure.")   
             
+            # Print final post-transformation profile summary to confirm all nulls are gone
+            print(f">>>> [AFTER CLEANING] File: {file_name} <<<<")
+            print(df_clean.isnull().sum())   
+            print("=" * 60)
+            
+            cleaned_dfs[file_name] = df_clean
+
     except Exception as err:
-        print("Error: ",err)
+        print("Global transformation handler failure: ", err)
         logging.error(f"Global dictionary level failure under handle_null_values: {err}")
 
     print("============================= Handling Null Values End ======================================")
-    logging.info("--- [Day 2 - Step 3] Missing Value Handling Engine Finished ---")
+    logging.info("--- Missing Value Handling Engine Finished ---")
 
     return cleaned_dfs
 
@@ -196,7 +215,7 @@ def handle_null_values(dfs):
 def translate_categories(dfs):
     
     print("\n============================= Category Translation Started ===================================")
-    logging.info("--- [Day 2 - Step 4] Category Translation Mapping Started ---")
+    logging.info("--- Category Translation Mapping Started ---")
     cleaned_dfs = {}
 
     for file_name, df in dfs.items():
@@ -221,7 +240,7 @@ def translate_categories(dfs):
         print("Translated product categories from Portuguese to English successfully.")
         logging.info(f"[dim_products] Translation successfully completed. Rows verified: {len(merged_df)} (Before: {before_rows})")
     
-    logging.info("--- [Day 2 - Step 4] Category Translation Mapping Completed ---")
+    logging.info("--- Category Translation Mapping Completed ---")
     return cleaned_dfs  
 
 # ===========================================================================================================
@@ -268,8 +287,8 @@ def build_dim_tables(dfs):
 # 6. Function to build secure table joins (Day 3 Task)
 # =========================================================================================================
 def build_fact_orders_joins(dfs):
-    print("\n============================= Day 3: Building Secure Joins Started ===============================")
-    logging.info("--- [Day 3] Central Fact Table Joins Engine Started ---")
+    print("\n============================= Building Secure Joins Started ===============================")
+    logging.info("--- Central Fact Table Joins Engine Started ---")
 
     items_df = dfs['olist_order_items_dataset.csv'].copy()
     orders_df = dfs['olist_orders_dataset.csv'].copy()
@@ -282,12 +301,12 @@ def build_fact_orders_joins(dfs):
     print("Fixing Review Grain Layer...")
     reviews_agg = reviews_df.groupby('order_id').agg(review_score=('review_score', 'mean')).reset_index()
 
-    print("Merging Items and Orders layers securely...")
+    print("--- Merging Items and Orders layers securely ---")
     fact_df = pd.merge(items_df, orders_df, on='order_id', how='left')
     fact_df = pd.merge(fact_df, reviews_agg, on='order_id', how='left')
     
     # Payment Grain Layer (Preventing Revenue Inflation Bug)
-    print("Fixing Payment Grain Layer...")
+    print("--- Fixing Payment Grain Layer ---")
     order_totals = items_df.groupby('order_id')['price'].sum().reset_index()
     order_totals.columns = ['order_id', 'total_items_price_per_order']
 
@@ -302,12 +321,17 @@ def build_fact_orders_joins(dfs):
     fact_df = pd.merge(fact_df, payment_map[['order_id', 'payment_type', 'payment_ratio']], on='order_id', how='left')
     fact_df['payment_value'] = (fact_df['price'] * fact_df['payment_ratio']).fillna(0)
     fact_df.drop(columns=['payment_ratio'], inplace=True)
-    
-    print(f"Row Count Profile: Fact table grain stable at {len(fact_df)} valid records.")
-    logging.info(f"[Join Step 2] Managed payment allocations. Finalized Fact size: {len(fact_df)}")
 
-    print("============================= Day 3: Building Secure Joins End ==============================\n")
-    logging.info("--- [Day 3] Central Fact Table Joins Engine Completed Successfully ---")
+    
+    if 'payment_type' in fact_df.columns:
+        fact_df = fact_df.dropna(subset=['payment_type'])
+
+    # ========================================================================================================
+    print(f"Row Count Profile: Fact table grain stable at {len(fact_df)} valid records.")
+    logging.info(f" Managed payment allocations. Finalized Fact size: {len(fact_df)}")
+
+    print("============================= Building Secure Joins End ==============================\n")
+    logging.info("--- Central Fact Table Joins Engine Completed Successfully ---")
 
     return fact_df
 
@@ -315,8 +339,8 @@ def build_fact_orders_joins(dfs):
 # 7. Function to Add Derived Columns (Day 4 Task)
 # =========================================================================================================
 def add_derived_columns(fact_df):
-    print("\n============================= Day 4: Adding Derived Columns Started ===============================")
-    logging.info("--- [Day 4] Derived Columns Generation Started ---")
+    print("\n============================= Adding Derived Columns Started ===============================")
+    logging.info("--- Derived Columns Generation Started ---")
     
     df_derived = fact_df.copy()
     
@@ -328,20 +352,24 @@ def add_derived_columns(fact_df):
     df_derived['total_order_value'] = df_derived['price'] + df_derived['freight_value']
     
     # C. is_positive_review (Review score of 4 or above -> 1 else 0 or boolean)
-    df_derived['is_positive_review'] = df_derived['review_score'].apply(lambda x: 1 if x >= 4 else 0)
+    # ********* Changes **********
+    if 'review_score' in df_derived.columns:
+        df_derived['review_score'] = df_derived['review_score'].fillna(0) # Catch newly born join leak nulls
+    df_derived['is_positive_review'] = df_derived['review_score'].apply(lambda x: True if x >= 4 else False)
 
     df_derived['order_purchase_date_key'] = df_derived['order_purchase_timestamp'].dt.strftime('%Y%m%d').fillna('-1').astype(int)
 
-    logging.info(f"Derived columns successfully added. Columns shape: {df_derived.shape}")
-    print("============================= Day 4: Adding Derived Columns End ==============================\n")
+    print(f"Derived columns successfully added. Columns shape: {df_derived.shape}")
+    logging.info(f"--- Derived columns successfully added. Columns shape: {df_derived.shape} ---")
+    print("============================= Adding Derived Columns End ==============================")
     return df_derived
 
 # =========================================================================================================
 # 8. Function to Run Data Quality Checks (Day 4 Task)
 # =========================================================================================================
 def run_data_quality_checks(fact_df, dfs):
-    print("\n============================= Day 4: Running Data Quality Assertions ===============================")
-    logging.info("--- [Day 4] Data Quality Engine Started ---")
+    print("\n============================= Running Data Quality Assertions ===============================")
+    logging.info("--- Data Quality Engine Started ---")
     
     # Check 1: No negative prices or freight values
     print("Audit 1: Checking for negative financial parameters...")
@@ -384,6 +412,6 @@ def run_data_quality_checks(fact_df, dfs):
         
     print(" -> All foreign key checks passed. Referential integrity is perfectly safe.")
     print("\n ALL DATA QUALITY ASSERTIONS PASSED SUCCESSFULLY! ")
-    logging.info("--- [Day 4] All Data Quality Checks Passed Without Exception ---")
-    print("============================= Day 4: Data Quality Assertions End ==============================\n")
+    logging.info("--- All Data Quality Checks Passed Without Exception ---")
+    print("============================= Data Quality Assertions End ==============================\n")
     return True
