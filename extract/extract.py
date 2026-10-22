@@ -10,16 +10,18 @@ BASE_DIR = Path().resolve()
 if str(BASE_DIR) not in sys.path: # Checks if python knows where the main folder is
     sys.path.append(str(BASE_DIR)) # Adds the main folder to python's path list
 
-from config.config import DATA_DIR, LOG_DIR, SCHEMA
+from config.config import SCHEMA
+from config.db_utils import LOGS_DIR, DATA_DIR
 
 # Gets a list of all CSV file names from config
 file_names = list(SCHEMA.keys())
 
 # Creates the logs folder automatically if it is missing
-LOG_DIR.mkdir(exist_ok=True)
+LOGS_DIR.mkdir(exist_ok=True)
 
+# Set up log file rules
 logging.basicConfig(
-    filename= LOG_DIR / 'extract_pipeline_logs.log', # Sets the name and location of the log text file
+    filename= LOGS_DIR / 'extract_pipeline_logs.log', # Sets the name and location of the log text file
     level= logging.INFO, # to save both normal notes and errors
     format= "%(asctime)s - %(levelname)s - %(message)s", # Sets the design of log messages with date and time
     filemode= 'a' # Keeps old logs and adds new messages at the bottom ('a' = append)
@@ -55,8 +57,8 @@ def extract_records(file_name):
 #=============================================================================
 # Starts a function to check data quality and make a report
 def  data_profiling(extracted_dfs, report_path):
-    print("Data Profiling Started")
-    logging.info(f"Data Profiling Started")
+    print("---------------------------------- Data Profiling Started --------------------------------------")
+    # logging.info(f"------------------------- Data Profiling Started ------------------------------------")
 
     profile_results = {} # Creates an empty dictionary to hold the results of all tables
 
@@ -66,13 +68,6 @@ def  data_profiling(extracted_dfs, report_path):
         duplicate_counts = df.duplicated().sum() # Counts how many rows are exact copies of each other
         null_counts = df.isnull().sum() # Counts how many empty or missing values are in each column
         null_percentage = (df.isnull().mean()*100).round(2) # Calculates the percentage of missing values rounded to 2 numbers
-        """
-        null_df = pd.DataFrame({
-            'null_counts' : null_counts,
-            'null_percentage' : null_percentage
-        }).reset_index().rename(columns={'index' : 'column_name'})
-
-        """
 
         null_df = pd.DataFrame({
             'null_counts' : null_counts,
@@ -96,7 +91,7 @@ def  data_profiling(extracted_dfs, report_path):
             'statistics_table' : statistics_df
         }
 
-    print("Writing All Metrics into Report")
+    print("--- Writing All Metrics into Report ---")
 
     report_content = "# Raw Data Profile Report \n"
     report_content += "---\n\n"
