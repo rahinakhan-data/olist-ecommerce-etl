@@ -11,11 +11,24 @@ This project addresses the challenges of dealing with fragmented retail data. It
 - **Environment Management:** `python-dotenv` (v1.0.1)
 - **Formatting & Reports:** `tabulate` (v0.9.0)
 - **Containerization:** Docker (PostgreSQL 15-alpine instance)
+ **Data Visualization & Analytics:** Power BI Desktop
 
 ## Repository Structure
 ```text
+├── airflow/                        # Core Apache Airflow Environment
+|   ├── config/                    # Configuration files
+│       └── config.py               # Hardcoded schemas, strict dtypes, and paths
+│       └── db_utils.py             
+│   ├── dags/
+│   │   └── olist_ecommerce_etl_pipeline_dag.py # 100% Error-free 3-Task Pipeline DAG
+│   ├── logs/                       # Airflow internal runtime engine logs
+│   └── plugins/                    # Airflow custom extensions
+|   ├── .env                       # Private file containing secret database credentials (ignored in Git)
+│   └── docker-compose.yaml        # Main Docker orchestration cluster setup file
+|                                   
 ├── config/                         # Configuration files
-│   └── config.py                   # Hardcoded schemas, strict dtypes, and directory paths
+│   └── config.py                   # Hardcoded schemas, strict dtypes, and paths
+│   └── db_utils.py                 # Centralized Database Engine setup for Docker environments
 ├── data/                           # Raw CSV data files directory (ignored in Git)
 ├── extract/                        # Extraction layer scripts
 │   ├── extract.py                  # Core data extraction and profiling logic
@@ -62,6 +75,20 @@ The second milestone extracts data from staging, handles analytical anomalies, e
 *   **Assert-Driven Quality Assertions:** Implemented strict constraint checks using conditional statements that prevent pipe runs if financial anomalies, future timelines, invalid delivery ranges, or orphan records are detected.
 *   **Orchestration Engine & Summary Profile (`run_transform.py`):** Built an automated driver file that runs processing tasks end-to-end, creates the warehouse schema, and exports a profiling breakdown to `reports/data_quality_report.csv`.
 
+### Week 3: Automation Orchestration, SQL Analytics & BI Dashboard (Load & Present Layer)
+The final milestone automates the entire system and presents clean data insights day by day:
+
+*   **Warehouse Loading & Audits (`Day 1 - load.py`):** Developed a main loading file (`load/load.py`) that acts as the final gatekeeper for our data storage:
+    *   *Schema Infrastructure:* Automatically creates the `warehouse` schema and cleans up old tables cleanly.
+    *   *Relational Integrity:* Applies strict database **Primary Keys and Foreign Keys** to link all dimension tables together safely.
+    *   *Performance Speed Up:* Creates fast indexes on date columns so heavy analytics queries run instantly.
+    *   *Reconciliation Audit:* Compares row counts and revenue totals between Python and the database to guarantee zero data loss.
+    *   *Reporting:* Automatically saves a summary report to `reports/data_quality_report.csv`.
+*   **Automated Apache Airflow DAG (`Day 2`):** Wired the entire pipeline into a clean automated loop using 3 distinct steps (`Extract_task` ➔ `Transform_task` ➔ `Load_task`).
+*   **Pure SQL Staging Flow:** Fixed the common issue where big dataframes slow down or crash the Airflow system. Instead of using XComs for large data, the code stores tables inside a temporary SQL area where tasks can safely fetch it one after another.
+*   **Analytical SQL Query Suite (`Day 3`):** Wrote 8 business queries inside the `/sql` directory to track state sales, shipping delays, and yearly trends.
+*   **Power BI Insight Dashboard (`Day 4`):** Built an interactive visual dashboard directly connected to our database, converting query numbers into beautiful charts.
+
 ---
 
 ## Getting Started
@@ -73,7 +100,7 @@ Make sure you have **Python 3.10+** and **Docker Desktop** installed on your sys
 Create a `.env` file in the root folder with your database credentials:
 ```env
 DB_USER=your_username
-DB_PASSWORD=secure_password123
+DB_PASSWORD=secret_password123
 DB_NAME=olist_ecommerce_etl_db
 DB_HOST=localhost
 DB_PORT=5433
@@ -91,7 +118,7 @@ source venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Running the Pipelines
+### 4.1. Running the Pipelines
 
 #### Step A: Execute Extraction (Week 1 Ingestion)
 To read the raw source files, generate preliminary metrics profiles, and populate the staging database tables:
@@ -106,3 +133,79 @@ To ingest data from staging, run cleaning methods, validate rules, and build you
 python run_transform.py
 ```
 *Outputs verification reports inside `reports/data_quality_report.csv` and details pipeline execution tracking in `logs/transform_pipeline_run_proof.log`.*
+
+### 4.2. Running the Automated ETL Pipeline (Apache Airflow)
+
+Instead of running python scripts manually, the entire workflow is now fully automated and scheduled using an Apache Airflow DAG divided into 3 isolated tasks (`Extract_task` ➔ `Transform_task` ➔ `Load_task`).
+
+#### Step A: Open the Airflow Web Interface
+Open your favorite web browser and go to the following address:
+```text
+http://localhost:8085
+```
+*   **Username:** `airflow`
+*   **Password:** `airflow`
+
+#### Step B: Unpause the DAG
+1. Once logged in, look at the main dashboard list to find **`Olist_Ecommerce_ETL_Pipeline_DAG`**.
+2. Click the blue toggle switch on the left side of the name to **Unpause** the DAG (turn it from grey to blue).
+
+#### Step C: Trigger the Pipeline Run
+1. On the right-hand side of your DAG name row, click the play button (**Trigger DAG** icon).
+2. Click **Trigger** to start the execution.
+
+#### Step D: Monitor Task Progress
+*   Click inside the DAG name to open the **Graph View** or **Grid View**.
+*   You will see your **3 distinct tasks** running one after another in perfect sequence:
+    1.  `Extract_task` (Turns green when CSV files are successfully stored in the staging database).
+    2.  `Transform_task` (Turns green when cleaning, translations, joins, and data quality checks finish).
+    3.  `Load_task` (Turns green when data is successfully pushed to the warehouse schema, relational constraints are applied, and reconciliation tests pass).
+
+*To check deeper technical run outputs or logs, click on any green/running task square box and select **Log**.*
+
+## Warehouse Load Strategy Justification
+For this architecture, a **Full Refresh Ingestion Strategy (Truncate and Load)** was chosen.
+*   **Justification:** Because the core operational datasets represent a static historical batch window, a full refresh completely eliminates data drift risk, resets index fragmentations, ensures absolute table schema validations, and executes well within optimal automated batch execution windows without unnecessary architectural overhead.
+
+## Power BI Implementation Details:
+- **Data Modeling:** Connected Star Schema directly from Postgres (`fact_orders`, `dim_customers`, `dim_products`, `dim_sellers`, `dim_date`).
+- **Advanced Analytics:** Implemented Custom Business Logic inside calculated columns and complex DAX measures (e.g., Late Delivery Rate %, Delivery Performance Status, Average Order Value).
+
+#### Key Business Insights (From Power BI)
+Based on our Power BI dashboard, here are the **6 simple and clear business insights**:
+
+1. **São Paulo (SP) is the Biggest Market**
+   * **Finding:** The state of **SP (São Paulo)** is our absolute top sales driver, making **over 4M in revenue** all by itself. Other major states like RJ and MG are far behind and did not even reach 1M.
+   * **Action:** Spend 60% of the marketing budget only on SP state and open faster delivery centers there to keep our top spot.
+
+2. **Customers Love Using Credit Cards**
+   * **Finding:** An overwhelming **79.01% of total revenue** comes from **Credit Cards**. Cash/Voucher payments (Boleto) are a distant second at 17.6%.
+   * **Action:** Partner with top banks to offer special rewards or no-cost EMI options. This will encourage credit card users to buy more items per order.
+
+3. **Health & Beauty and Watches are Top Sellers**
+   * **Finding:** **Health & Beauty** is our number one category at **1.3M**, closely followed by **Watches & Gifts** at **1.2M**. These categories bring in the most money.
+   * **Action:** Make sure we never run out of stock for these top products. Create special bundle offers combining these categories during holiday sales.
+
+4. **Great Logistics and Delivery Performance**
+   * **Finding:** The business successfully processed **98.665K total orders** with an **Average Order Value (AOV) of 120.66**. Even better, **91.16% of all orders arrived On-Time or Early**, keeping the late delivery rate very low at just **6.59%**.
+   * **Action:** Show off this 91%+ on-time delivery rate on our website's homepage so new shoppers trust us instantly.
+
+5. **Big Sales Growth in Mid-2017**
+   * **Finding:** Monthly revenue started growing very fast in July 2017 and hit its highest peak in **January 2018 at 1.0M+**. After that, sales stabilized steadily between 0.8M and 1.0M.
+   * **Action:** Check what special discounts or marketing campaigns ran in July 2017. Repeat those exact strategies to grow our monthly sales past the 1M limit again.
+
+6. **Good Customer Satisfaction Score**
+   * **Finding:** The platform maintains a very stable **4.00 Average Customer Review Score** across all orders.
+   * **Action:** To push this score higher, target the 6.59% of customers who received late deliveries. Give them discount vouchers for their next purchase before they leave a bad review.
+
+## Known Limitations & Next Steps
+
+*   **Current Limitations (What the project cannot do right now):**
+    *   The pipeline relies on batch CSV data files being stored locally or mounted into the container volumes.
+    *   The database and the Airflow web server are running on a local computer, which limits external cloud accessibility.
+    *   The system cannot handle live, real-time streaming data updates (CDC) automatically without manual DAG triggers.
+
+*   **Next Steps (What we will improve next):**
+    *   Connect automatic **Slack or Email webhook alerts** directly into the Airflow DAG failure callbacks to instantly notify the team if a task breaks.
+    *   Move our local PostgreSQL container instance to a real, secure cloud database engine like **AWS RDS** or **Google Cloud SQL**.
+    *   Integrate an advanced data validation tool like **Great Expectations** into the transformation step for automated schema testing.
