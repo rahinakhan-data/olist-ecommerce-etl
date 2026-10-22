@@ -1,10 +1,30 @@
+# ==========================================
+# Project Data & Environments
+# ==========================================
 data/
 venv/
+.env
 __pycache__/
-logs/*.log
+*.tmp
+
+# ==========================================
+# Notebooks & Office Temp Files
+# ==========================================
 .ipynb_checkpoints/
-# Microsoft Office Temporary Files
 ~$*.docx
 ~$*.xlsx
-*.tmp
-.env
+
+# ==========================================
+# Logs Management (Keeps folder, ignores files)
+# ==========================================
+logs/*.log
+
+# ==========================================
+# Apache Airflow Local Files (NEW)
+# ==========================================
+airflow.db
+airflow.cfg
+webserver_config.py
+airflow-webserver.pid
+standalone_admin_password.txt
+standalone-admin-password.txt
