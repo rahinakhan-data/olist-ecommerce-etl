@@ -11,7 +11,7 @@ This project addresses the challenges of dealing with fragmented retail data. It
 - **Environment Management:** `python-dotenv` (v1.0.1)
 - **Formatting & Reports:** `tabulate` (v0.9.0)
 - **Containerization:** Docker (PostgreSQL 15-alpine instance)
- **Data Visualization & Analytics:** Power BI Desktop
+- **Data Visualization & Analytics:** Power BI Desktop
 
 ## Repository Structure
 ```text
