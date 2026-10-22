@@ -24,7 +24,7 @@ Table : `olist_geolocation_dataset.csv`
 
 Total Rows: 1000163 
 Total Columns: 5 
-Duplicate Records: 261831 
+Duplicate Records: 261836 
 Null Values Summary
 | column_name                 |   null_counts |   null_percentage |
 |:----------------------------|--------------:|------------------:|
